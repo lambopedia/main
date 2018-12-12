@@ -1,0 +1,2 @@
+# pages
+Lambopedia pages
