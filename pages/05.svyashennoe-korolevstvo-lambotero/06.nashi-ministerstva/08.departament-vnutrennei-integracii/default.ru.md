@@ -1,6 +1,7 @@
 ---
 title: 'Департамент внутренней интеграции'
 media_order: DVI.png
+visible: false
 ---
 
 ![](DVI.png)
