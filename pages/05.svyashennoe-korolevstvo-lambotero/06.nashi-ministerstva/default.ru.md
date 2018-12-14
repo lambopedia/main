@@ -1,5 +1,6 @@
 ---
 title: 'Наши министерства'
+visible: false
 ---
 
 [ Министерство Интеграции  ](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-integracii)  
