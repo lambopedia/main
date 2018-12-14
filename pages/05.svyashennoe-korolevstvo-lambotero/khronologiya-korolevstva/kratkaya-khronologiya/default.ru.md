@@ -2,9 +2,9 @@
 title: 'Краткая хронология'
 ---
 
-    100 млн лет назад. Падение метеорита
+    [100 млн лет назад. Падение метеорита](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/padenie-meteorita 
 
-https://lambotero.life/attachments/karta-korolevstva-lambotero-1652-2-jpg.237/
+
 
 
 
