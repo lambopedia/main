@@ -1,7 +1,7 @@
 ---
 title: 'Хронология королевства'
 published: true
-visible: true
+visible: false
 ---
 
 [Краткая хронология](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya)
