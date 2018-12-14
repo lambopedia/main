@@ -23,6 +23,7 @@ visible: false
 Сейчас оно находится в ведении Службы Прогноза Погоды и поддерживается небольшой ротой "гражданских" специалистов, которых, в скором времени планируется заменить на боевого человекоподобного робота.
 Министерство Войны и Победы оказывает лишь консультационные услуги по этому объекту и изредка проводит профилактические работы.
 
+[Военная доктрина Королевства Ламботеро](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-voiny-i-pobedy/voennaya-doktrina-korolevstva-lambotero)
 
 в составе Министерства ВиП выделены следующие ведомства:  
  [Гранд-Адмиралтейство](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-voiny-i-pobedy/grand-admiralteistvo)  
