@@ -13,8 +13,9 @@ title: 'Краткая хронология'
 
 
 
-   [133 год н.э. Первая Мужская революция - (малоизученная и кроваво подавленная)]((http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/pervaya-muzhskaya-revolyuciya)
-    https://lambotero.life/threads/133-...ennaja-soglasno-xronologii-ot-eht-ehrila.556/
+   [133 год н.э. Первая Мужская революция - (малоизученная и кроваво подавленная)](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/pervaya-muzhskaya-revolyuciya)
+   
+
 
 
     233 г Великая Мужская революция, долгожданное свержение матриархата
