@@ -30,4 +30,4 @@ visible: false
 [Военно-Морской флот](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-voiny-i-pobedy/voenno-morskoi-flot)  
  
  
- Комиссар департамента Альфонсо
+ Комиссар департамента [Альфонсо](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-voiny-i-pobedy/komissar-departamenta-vip)
