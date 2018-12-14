@@ -73,9 +73,8 @@ title: 'Краткая хронология'
 
 
 
-   [1980 Четвертый Ламботерийско-Филиппинский конфликт. Утро Огненных стрел.](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/chetvertyi-filippinskii-konflikt) 
+   [1980 Четвертый Филиппинский конфликт. Утро Огненных стрел.](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/chetvertyi-filippinskii-konflikt) 
 
-https://lambotero.life/threads/nasha-slavnaja-istorija-sklad-razroznennoj-informacii.13/post-208
 
 
 
