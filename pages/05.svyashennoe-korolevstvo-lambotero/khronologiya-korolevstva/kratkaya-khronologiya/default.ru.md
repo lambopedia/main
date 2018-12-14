@@ -63,10 +63,10 @@ https://lambotero.life/threads/nasha-slavnaja-istorija-sklad-razroznennoj-inform
 
 
 
-1962 год
-[Первый филиппинский конфликт](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/pervyi-filippinskii-konflikt)
 
-https://lambotero.life/threads/nasha-slavnaja-istorija-sklad-razroznennoj-informacii.13/post-1615
+[1962 Первый филиппинский конфликт](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/pervyi-filippinskii-konflikt)
+
+
 
 
 
