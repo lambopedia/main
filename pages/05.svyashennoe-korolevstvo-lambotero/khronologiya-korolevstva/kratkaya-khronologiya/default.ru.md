@@ -56,15 +56,7 @@ title: 'Краткая хронология'
 
 
 
-   [1896 Созыв первого парламента](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/sozyv-pervogo-parlamenta)
-
-https://lambotero.life/threads/nasha-slavnaja-istorija-sklad-razroznennoj-informacii.13/post-985
-
-
-
-
-
-[1962 Первый филиппинский конфликт](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/pervyi-filippinskii-konflikt)
+   [1896 Созыв первого парламента.](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/sozyv-pervogo-parlamenta)
 
 
 
@@ -72,8 +64,16 @@ https://lambotero.life/threads/nasha-slavnaja-istorija-sklad-razroznennoj-inform
 
 
 
+[1962 Первый филиппинский конфликт.](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/pervyi-filippinskii-konflikt)
 
-    1980 Четвертый Ламботерийско-Филиппинский конфликт. Утро Огненных стрел.
+
+
+
+
+
+
+
+   [1980 Четвертый Ламботерийско-Филиппинский конфликт. Утро Огненных стрел.](http://lambopedia.ru//svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/chetvertyi-filippinskii-konflikt) 
 
 https://lambotero.life/threads/nasha-slavnaja-istorija-sklad-razroznennoj-informacii.13/post-208
 
