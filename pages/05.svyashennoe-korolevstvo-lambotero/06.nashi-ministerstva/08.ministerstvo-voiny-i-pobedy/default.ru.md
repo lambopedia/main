@@ -1,6 +1,7 @@
 ---
 title: 'Министерство Войны и Победы'
 media_order: gerb_02.png
+visible: false
 ---
 
 ![](gerb_02.png)
