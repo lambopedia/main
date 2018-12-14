@@ -29,7 +29,7 @@ https://lambotero.life/threads/nasha-slavnaja-istorija-sklad-razroznennoj-inform
 
 
 
-   [870 год – Религиозная война. Откровение ВУЛКАНА](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/otkrovenie-vulkana)
+   [870 год – Религиозная война. Откровение Вулкана](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/otkrovenie-vulkana)
 
 
 
