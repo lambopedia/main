@@ -5,4 +5,4 @@ visible: false
 
 [Департамент Внутренней Интеграции (Гражданство, вид на жительство, ассимиляция варварских народов.)](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-integracii/departament-vnutrennei-integracii)  
 [Департамент Внешней Интеграции (Принуждение варварских стран к миру и гармонии, под контролем Священного Королевства Ламботеро.)  ](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-integracii/departament-vneshnei-integracii)  
-[Департамент Милости и Кары  ](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-integracii/departament-milosti-i-kary)
+[Департамент Милости и Кары (Споры, кляузы, доносы, жалобы, суды, наказания и помилования.)  ](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-integracii/departament-milosti-i-kary)
