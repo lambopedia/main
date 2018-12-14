@@ -24,7 +24,7 @@ media_order: gerb_02.png
 
 
 в составе Министерства ВиП выделены следующие ведомства:
- Гранд-Адмиралтейство  
+ [Гранд-Адмиралтейство](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-voiny-i-pobedy/grand-admiralteistvo)  
  Аэро-Космический флот  
  Военно-Морской флот  
  
