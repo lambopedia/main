@@ -3,7 +3,7 @@ title: 'Департамент милости и кары'
 media_order: gerb.png
 ---
 
-![](gerb.png)
+[![](gerb.png)](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-integracii/departament-milosti-i-kary/gerb-departamenta-milosti-i-kary)
 
 Даже в таком идеальном государстве с идеальными жителями, как Священное Королевство Ламботеро, случаются события, которые можно причислить к нарушениям, проступкам и даже преступлениям!
 
