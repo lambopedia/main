@@ -1,6 +1,5 @@
 ---
 title: эт-эрил
-media_order: Ei-eril.jpg
 ---
 
 ![](Ei-eril.jpg)
