@@ -1,6 +1,7 @@
 ---
 title: 'Департамент внутренней интеграции'
 media_order: DVI.png
+visible: false
 ---
 
 [![](DVI.png)](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/departament-vnutrennei-integracii/gerb-departamenta-vnutrennei-integracii)
