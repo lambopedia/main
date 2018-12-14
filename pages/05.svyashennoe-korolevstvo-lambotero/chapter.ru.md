@@ -6,10 +6,10 @@ media_order: 'Карта королевства Ламботеро 1652 прав
 ### Священное королевство Ламботеро
 ---
 
-Раздел содержит информацию о королевстве **Ламботеро**
 
 
-[О королевстве](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/o-korolevstve)
+
+	[О королевстве](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/o-korolevstve)
 
 [История](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva)
 
