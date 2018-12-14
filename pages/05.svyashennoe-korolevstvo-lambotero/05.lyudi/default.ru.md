@@ -1,5 +1,6 @@
 ---
 title: Люди
+visible: false
 ---
 
 [Король Альшубарот](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/lyudi/korol-alshubarot)
