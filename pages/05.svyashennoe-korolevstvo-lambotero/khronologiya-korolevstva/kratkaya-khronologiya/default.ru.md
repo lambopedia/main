@@ -77,7 +77,7 @@ title: 'Краткая хронология'
 
 
 
-   [2001 год – горный инцидент. Другой Мир в огне](http://lambopedia.mak-radio.nichost.ru/admin/pages/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/gornyi-incident)
+   [2001 год – горный инцидент. (Другой Мир в огне)](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/gornyi-incident)
 
 
 
