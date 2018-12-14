@@ -78,11 +78,9 @@ title: 'Краткая хронология'
 
 
 
-    2001 год – горный инцидент (другой Мир в огне)
-
-https://lambotero.life/threads/nash...ad-razroznennoj-informacii.13/page-3#post-715
+   [2001 год – горный инцидент (другой Мир в огне)](http://lambopedia.mak-radio.nichost.ru/admin/pages/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/gornyi-incident)
 
 
-    октябрь 2018
 
-Королевство провозглашает курс на великую интеграцию и открывает себя миру.
+
+    октябрь 2018  Королевство провозглашает курс на великую интеграцию и открывает себя миру.
