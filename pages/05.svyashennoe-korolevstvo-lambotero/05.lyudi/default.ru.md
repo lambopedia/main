@@ -8,3 +8,5 @@ visible: false
 [Бартамьян Эксперуанто глава  ламботерийской академии наук](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/lyudi/bartamyan-eksperuanto)
 
 [Эт-эрил комиссар Департамента Внутренней Интеграции](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-integracii/departament-vnutrennei-integracii/et-eril)
+
+[Альффонсо комиссар Департамента Войны и Победы](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-voiny-i-pobedy/komissar-departamenta-vip)
