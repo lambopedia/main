@@ -50,10 +50,9 @@ title: 'Краткая хронология'
 
 1612 год ничего особенного не случилось
 
-1614 год полное и безоговорочное запрещение иноземной религии.
+[1614 год полное и безоговорочное запрещение иноземной религии.](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/zapreshenie-iznozemnoi-religii)
 
-https://lambotero.life/threads/nasha-slavnaja-istorija-sklad-razroznennoj-informacii.13/post-1116
-(спорный пункт)
+
 
 
 
