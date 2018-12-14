@@ -23,7 +23,7 @@ title: 'Краткая хронология'
 
 
 
-    540 год – второе пришествие Матриахрата (путешествие сына вождя)
+   [540 год – второе пришествие Матриахрата](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/vtoroe-prishestvie-matriarkhata)
 
 https://lambotero.life/threads/nasha-slavnaja-istorija-sklad-razroznennoj-informacii.13/post-1413
 
