@@ -17,8 +17,7 @@ title: 'Краткая хронология'
    
 
 
-
-    233 г Великая Мужская революция, долгожданное свержение матриархата
+233 г Великая Мужская революция, долгожданное свержение матриархата
 
 
 
@@ -78,9 +77,9 @@ title: 'Краткая хронология'
 
 
 
-   [2001 год – горный инцидент (другой Мир в огне)](http://lambopedia.mak-radio.nichost.ru/admin/pages/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/gornyi-incident)
+   [2001 год – горный инцидент. Другой Мир в огне](http://lambopedia.mak-radio.nichost.ru/admin/pages/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/kratkaya-khronologiya/gornyi-incident)
 
 
 
 
-    октябрь 2018  Королевство провозглашает курс на великую интеграцию и открывает себя миру.
+октябрь 2018  Королевство провозглашает курс на великую интеграцию и открывает себя миру.
