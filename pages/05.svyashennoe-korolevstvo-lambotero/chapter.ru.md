@@ -11,3 +11,4 @@ media_order: 'Карта королевства Ламботеро 1652 прав
 2. [История](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva)
 3. [Люди](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/lyudi)
 4. [Ламбократия](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/lambokratiya)
+5. [Наши министерства](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva)
