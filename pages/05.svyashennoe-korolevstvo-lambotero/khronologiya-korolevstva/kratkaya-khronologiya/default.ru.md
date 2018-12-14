@@ -29,9 +29,9 @@ https://lambotero.life/threads/nasha-slavnaja-istorija-sklad-razroznennoj-inform
 
 
 
-    870 год – Религиозная война. Откровение ВУЛКАНА (возможность перерождения, при упокоении в ВУЛКАНЕ)
+   [870 год – Религиозная война. Откровение ВУЛКАНА](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/otkrovenie-vulkana)
 
-https://lambotero.life/threads/nasha-slavnaja-istorija-sklad-razroznennoj-informacii.13/post-1419
+
 
 
 
