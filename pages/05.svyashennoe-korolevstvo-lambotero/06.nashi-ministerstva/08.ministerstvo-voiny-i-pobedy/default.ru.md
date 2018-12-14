@@ -23,7 +23,7 @@ media_order: gerb_02.png
 Министерство Войны и Победы оказывает лишь консультационные услуги по этому объекту и изредка проводит профилактические работы.
 
 
-в составе Министерства ВиП выделены следующие ведомства:
+в составе Министерства ВиП выделены следующие ведомства:  
  [Гранд-Адмиралтейство](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-voiny-i-pobedy/grand-admiralteistvo)  
 [Аэро-Космический флот](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-voiny-i-pobedy/aerokosmicheskii-flot)  
 [Военно-Морской флот](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-voiny-i-pobedy/voenno-morskoi-flot)  
