@@ -2,8 +2,6 @@
 title: 'Краткая хронология'
 ---
 
-
-
     100 млн лет назад. Падение метеорита
 
 https://lambotero.life/attachments/karta-korolevstva-lambotero-1652-2-jpg.237/
