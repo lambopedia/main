@@ -2,7 +2,7 @@
 title: 'Наши министерства'
 ---
 
-[ Министерство Интеграции  ](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/ministerstvo-integracii)  
+[ Министерство Интеграции  ](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-integracii)  
  Министерство Войны и Победы  
  Министерство Великих Открытий  
  Министерство Благосостояния и Процветания  
