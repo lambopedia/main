@@ -3,7 +3,7 @@ title: 'Департамент внутренней интеграции'
 media_order: DVI.png
 ---
 
-[(DVI.png)](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/departament-vnutrennei-integracii/gerb-departamenta-vnutrennei-integracii)
+[![](DVI.png)](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/departament-vnutrennei-integracii/gerb-departamenta-vnutrennei-integracii)
 Департамент Внутренней Интеграции.
 
 Недосягаемый культурный, духовный и экономический уровень развития граждан Ламботеро, может пробудить в душах варварских народов самые некрасивые пороки - зависть, ненависть, злобу и самоуничижение.
