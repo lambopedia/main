@@ -1,6 +1,7 @@
 ---
 title: 'Департамент Милости и Кары'
 media_order: gerb.png
+visible: false
 ---
 
 [![](gerb.png)](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-integracii/departament-milosti-i-kary/gerb-departamenta-milosti-i-kary)
