@@ -7,12 +7,7 @@ media_order: 'Карта королевства Ламботеро 1652 прав
 ---
 
 
-
-
-	[О королевстве](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/o-korolevstve)
-
-[История](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva)
-
-[Люди](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/lyudi)
-
-[Ламбократия](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/lambokratiya)
+1. [О королевстве](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/o-korolevstve)
+2. [История](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva)
+3. [Люди](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/lyudi)
+4. [Ламбократия](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/lambokratiya)
