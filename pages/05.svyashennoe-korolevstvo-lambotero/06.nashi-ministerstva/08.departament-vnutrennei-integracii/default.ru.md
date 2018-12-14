@@ -18,3 +18,6 @@ media_order: DVI.png
 
 Также в структуру Департамента Внутренней Интеграции входит Королевская Жандармерия.
 Главная задача которой оберегать покой и спокойствие наших граждан
+
+
+Комиссар департамента [Эт-Эрил](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/departament-vnutrennei-integracii/et-eril)
