@@ -3,6 +3,6 @@ title: 'комиссар департамента ВиП'
 ---
 
 ![](Alfonso.jpg)
-История становления комиссара.
+[История становления комиссара.](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-voiny-i-pobedy/komissar-departamenta-vip/kak-alfonso-stal-komissarom)
 
 Курс молодго бойца.
