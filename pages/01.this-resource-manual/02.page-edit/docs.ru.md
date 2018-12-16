@@ -1,5 +1,5 @@
 ---
-title: 'Как добавить страницу'
+title: 'Редактирование страниц'
 media_order: 'Screenshot_3.jpg,Screenshot_4.jpg'
 ---
 
