@@ -30,5 +30,3 @@ title: 'За что ты получаешь ману и бонды?'
 
 Запомни! Флудить, спамить и нарушать правила нашего форума - невыгодно!
 
-
-[За что ты получаешь бонды и ману?](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-blagosostoyaniya-i-procvetaniya/mana-i-bondy-raschetnye-edinicy-na-forume/za-chto-ty-poluchaesh-manu-i-bondy)
