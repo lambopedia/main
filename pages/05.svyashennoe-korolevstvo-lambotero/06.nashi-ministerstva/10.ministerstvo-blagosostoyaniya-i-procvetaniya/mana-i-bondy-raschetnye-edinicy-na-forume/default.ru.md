@@ -24,4 +24,5 @@ title: 'Мана и бонды - расчетные единицы на фору
 
 И в наших общих интересах, всеми силами, приближать этот великий момент.
 
+
 [За что ты получаешь бонды и ману?](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-blagosostoyaniya-i-procvetaniya/mana-i-bondy-raschetnye-edinicy-na-forume/za-chto-ty-poluchaesh-manu-i-bondy)
