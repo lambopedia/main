@@ -8,6 +8,6 @@ visible: false
  [Министерство Великих Открытий](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-velikikh-otkrytii)  
  [Министерство Благосостояния и Процветания](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-blagosostoyaniya-i-procvetaniya)  
  [Министерство Правды](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-pravdy)  
- Министерство Великой Культуры  
+ [Министерство Великой Культуры](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-velikoi-kultury)
  Королевская Cлужба Ревизии и Контроля  
  
