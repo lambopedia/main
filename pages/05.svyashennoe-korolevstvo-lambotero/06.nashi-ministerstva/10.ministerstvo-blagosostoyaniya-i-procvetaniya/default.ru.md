@@ -16,4 +16,6 @@ title: 'Министерство Благосостояния и Процвет�
 На ежемесячных онлайн конференциях, проводимых под патронажем Министерства, проходит отбор лучших, а порой и безумных идей, которые будут поддержаны из бюджета Королевства.
 
 
-[Свобода для бизнеса. никаких обязательных налогов](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-blagosostoyaniya-i-procvetaniya/svoboda-dlya-biznesa-nikakikh-obyazatelnykh-nalogov)
+[Свобода для бизнеса. никаких обязательных налогов](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-blagosostoyaniya-i-procvetaniya/svoboda-dlya-biznesa-nikakikh-obyazatelnykh-nalogov)  
+
+[Мана и бонды расчетные единицы на форуме](lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-blagosostoyaniya-i-procvetaniya/mana-i-bondy-raschetnye-edinicy-na-forume)
