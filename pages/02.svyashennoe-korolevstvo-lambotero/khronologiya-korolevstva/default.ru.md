@@ -1,5 +1,5 @@
 ---
-title: 'Хронология королевства'
+title: 'История королевства'
 published: true
 visible: false
 ---
