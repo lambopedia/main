@@ -16,3 +16,5 @@ title: 'сказки и легенды Ламботеро'
 [Сказка о красоте](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/skazki-i-legendy-lambotero/skazka-o-krasote)
 
 [Кто он? Старик-Крабовик.](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/skazki-i-legendy-lambotero/kto-on-starik-krabovik)
+
+[Сказка о веслоногом Куропасу](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/skazki-i-legendy-lambotero/skazka-o-veslonogom-kuropasu)
