@@ -1,6 +1,6 @@
 ---
 title: Требования
-visible: true
+visible: false
 ---
 
 На основе [послания](https://vk.com/wall-166566448_409) можно говорить о следующих  
