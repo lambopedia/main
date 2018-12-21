@@ -15,7 +15,9 @@ visible: false
 
 Функции министерства Благосостояния и Процветания, в основном, заключаются в лицензировании видов экономической деятельности и регламентирование правил поведения и допуска на рынки Королевства компаний, корпораций и бизнесменов из варварских стран внешнего мира. Социальная политика также находится в ведомстве этого министерства.
 
-[Ламботерийская Крона - единая и единственная криптовалюта всего человечества](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-blagosostoyaniya-i-procvetaniya/lamboteriiskaya-krona)
+[Ламботерийская Крона - единая и единственная криптовалюта всего человечества](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-blagosostoyaniya-i-procvetaniy/lamboteriiskaya-krona)  
+
+[Экономическая модель королевства Ламботеро](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-blagosostoyaniya-i-procvetaniya/ekonomicheskaya-model-korolevstva-lambotero)  
 
 [Свобода для бизнеса. никаких обязательных налогов](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/nashi-ministerstva/ministerstvo-blagosostoyaniya-i-procvetaniya/svoboda-dlya-biznesa-nikakikh-obyazatelnykh-nalogov)  
 
