@@ -1,13 +1,13 @@
 ---
 title: 'Священное королевство Ламботеро'
-media_order: 'Карта королевства Ламботеро 1652 правка.jpg'
+media_order: 'Карта королевства Ламботеро 1652 правка.jpg,big_c38bdb7748177f619666c23227795d3a.png'
 ---
 
 ### Священное королевство Ламботеро  
 
 и вся доступна варварам информация о нем.
 ---
-
+![](big_c38bdb7748177f619666c23227795d3a.png)
 
 1. [О королевстве](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/o-korolevstve)
 2. [История](http://lambopedia.ru/ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva)
