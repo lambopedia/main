@@ -27,4 +27,4 @@ media_order: lambotero_niga_ziga_wiga.png
 
 Персонаж-талисман (маско́т, от англ. mascot — «человек, животное или объект, приносящий удачу») — узнаваемый персонаж, олицетворяющий собой некий коллектив: школу, спортивную команду, сообщество, воинское подразделение, мероприятие или бренд.
 
-Зига и Нига, древние ламботерийские имена. Узнать больше....
+[Зига и Нига, древние ламботерийские имена. Узнать больше....](http://lambopedia.ru/svyashennoe-korolevstvo-lambotero/khronologiya-korolevstva/talismany-maskoty-korolevstva/nacionalnye-imena-korolevstva-lambotero)
