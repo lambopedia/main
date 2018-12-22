@@ -1,5 +1,8 @@
 ---
 title: 'Министерство Благосостояния и Процветания'
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
