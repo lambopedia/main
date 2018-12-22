@@ -1,6 +1,9 @@
 ---
 title: Ламбократия
 media_order: Ламбократия.jpg
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
