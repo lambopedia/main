@@ -1,5 +1,8 @@
 ---
 title: 'Герб департамента Милости и Кары'
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
