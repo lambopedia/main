@@ -3,7 +3,7 @@ title: 'Редактирование страниц'
 media_order: 'Screenshot_3.jpg,Screenshot_4.jpg,Screenshot_8.jpg,Screenshot_9.jpg,Screenshot_10.jpg,Screenshot_11.jpg,Screenshot_12.jpg,create_dir.gif'
 ---
 
-Добавять и редактировать страницы можно двумя способами: 123321
+Добавять и редактировать страницы можно двумя способами: 444
 1. Через админку сайта, используя учётную запись админки.
 2. Через сайт github.
 3. Через любой редактор, поддерживающий работу с github.  
