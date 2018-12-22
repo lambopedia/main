@@ -1,5 +1,8 @@
 ---
 title: 'Министерство Великих Открытий'
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
