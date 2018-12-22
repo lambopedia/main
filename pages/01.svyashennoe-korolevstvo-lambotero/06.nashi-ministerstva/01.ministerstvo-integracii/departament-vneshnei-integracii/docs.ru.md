@@ -1,9 +1,10 @@
 ---
 title: 'Департамент внешней интеграции'
 media_order: DVNESH.png
+taxonomy:
+    category:
+        - kingdom
 ---
-
-
 
 ![](DVNESH.png)
 
