@@ -1,8 +1,9 @@
 ---
 title: 'Министерство Великой Культуры'
+taxonomy:
+    category:
+        - kingdom
 ---
-
-
 
 ![](History%20dep%202.png)
 
