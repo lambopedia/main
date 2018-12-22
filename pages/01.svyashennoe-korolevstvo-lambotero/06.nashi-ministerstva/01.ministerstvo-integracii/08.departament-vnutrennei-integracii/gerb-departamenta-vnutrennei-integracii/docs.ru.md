@@ -1,9 +1,10 @@
 ---
 title: 'Герб департамента внутренней интеграции'
 media_order: DVI.png
+taxonomy:
+    category:
+        - kingdom
 ---
-
-
 
 ![](DVI.png)
 
