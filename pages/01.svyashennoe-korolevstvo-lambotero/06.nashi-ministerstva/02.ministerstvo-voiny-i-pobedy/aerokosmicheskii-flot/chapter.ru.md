@@ -1,6 +1,9 @@
 ---
 title: 'АэроКосмический Флот'
 media_order: aerospaco.png
+taxonomy:
+    category:
+        - kingdom
 ---
 
 ![](aerospaco.png)
