@@ -1,5 +1,8 @@
 ---
 title: 'Бартамьян Эксперуанто'
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
