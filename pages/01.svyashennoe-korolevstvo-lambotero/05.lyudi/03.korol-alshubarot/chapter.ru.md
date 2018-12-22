@@ -1,6 +1,9 @@
 ---
 title: 'Король Альшубарот'
 published: true
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
