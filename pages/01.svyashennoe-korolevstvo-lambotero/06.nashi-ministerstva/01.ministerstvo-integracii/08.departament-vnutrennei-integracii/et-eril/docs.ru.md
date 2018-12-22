@@ -1,5 +1,8 @@
 ---
 title: Эт-Эрил
+taxonomy:
+    category:
+        - kingdom
 ---
 
 ![](Ei-eril.jpg)
