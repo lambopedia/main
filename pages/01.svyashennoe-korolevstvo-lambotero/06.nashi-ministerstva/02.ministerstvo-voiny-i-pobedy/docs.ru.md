@@ -1,6 +1,9 @@
 ---
 title: 'Министерство Войны и Победы'
 media_order: gerb_02.png
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
