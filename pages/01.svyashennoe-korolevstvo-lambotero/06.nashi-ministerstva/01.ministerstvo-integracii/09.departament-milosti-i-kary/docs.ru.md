@@ -1,6 +1,9 @@
 ---
 title: 'Департамент Милости и Кары'
 media_order: gerb.png
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
