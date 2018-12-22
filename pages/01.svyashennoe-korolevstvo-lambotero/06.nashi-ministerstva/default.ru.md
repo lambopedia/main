@@ -1,5 +1,8 @@
 ---
 title: 'Наши министерства'
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
