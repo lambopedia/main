@@ -1,5 +1,8 @@
 ---
 title: 'Министерство Интеграции'
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
