@@ -2,7 +2,7 @@
 title: 'Наши министерства'
 taxonomy:
     category:
-        - kingdom
+        - docs
 visible: false
 ---
 
