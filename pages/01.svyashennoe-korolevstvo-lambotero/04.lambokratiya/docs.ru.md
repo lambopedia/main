@@ -3,7 +3,7 @@ title: Ламбократия
 media_order: Ламбократия.jpg
 taxonomy:
     category:
-        - kingdom
+        - docs
 visible: false
 ---
 
