@@ -1,6 +1,9 @@
 ---
 title: 'О королевстве'
 media_order: 'герб малый2.png,lambomap.jpg'
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
