@@ -1,6 +1,9 @@
 ---
 title: 'Министерство Правды'
 media_order: gerb_03.png
+taxonomy:
+    category:
+        - kingdom
 ---
 
 ![](gerb_03.png)
