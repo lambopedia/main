@@ -1,6 +1,9 @@
 ---
 title: 'Департамент внутренней интеграции'
 media_order: DVI.png
+taxonomy:
+    category:
+        - kingdom
 visible: false
 ---
 
