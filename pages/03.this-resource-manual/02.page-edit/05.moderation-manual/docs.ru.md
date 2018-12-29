@@ -1,6 +1,6 @@
 ---
 title: Премодерация
-media_order: 'Screenshot_34.jpg,Screenshot_35.jpg,Screenshot_36.jpg'
+media_order: 'Screenshot_34.jpg,Screenshot_35.jpg,Screenshot_36.jpg,Screenshot_37.jpg,Screenshot_38.jpg,Screenshot_39.jpg,Screenshot_40.jpg'
 visible: true
 ---
 
@@ -26,3 +26,19 @@ visible: true
 ![](Screenshot_35.jpg)
 
 # Как добавлять модераторов
+1. Залогиньтесь в GitHub под учётной записью "lambopedia". Откройте настройки репозитория.
+
+![](Screenshot_37.jpg)
+
+2. Откройте вкладку "Collaborators" и добавьте нужные учётные записи. С этой же страницы происходит отзыв модераторов. Введите логин добавляемого модератора и нажмите "Add collaborator".
+
+![](Screenshot_38.jpg)
+
+3. На указанную учётную запись будет отправлен запрос. Запрос в учётной записи нового модератора отобразится в уведомлениях. Необходимо подтвердить своё согласие, нажав "Accept invitation".
+
+![](Screenshot_39.jpg)
+![](Screenshot_40.jpg)
+
+4. Когда запрос будет подтверждён новым модератором, элемент списка станет таким:
+
+![](Screenshot_41.jpg)
