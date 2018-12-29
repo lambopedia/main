@@ -1,6 +1,6 @@
 ---
 title: 'Через GitHub'
-media_order: 'Screenshot_21.jpg,Screenshot_8.jpg,Screenshot_9.jpg,Screenshot_22.jpg'
+media_order: 'Screenshot_21.jpg,Screenshot_8.jpg,Screenshot_9.jpg,Screenshot_22.jpg,Screenshot_10.jpg,Screenshot_11.jpg,create_dir.gif,Screenshot_12.jpg,Screenshot_13.jpg,Screenshot_24.jpg,Screenshot_25.jpg'
 ---
 
 Данный вариант доступен всем желающим, но содержит премодерацию. Премодерация необходима в первую очередь для защиты от вандализма. Чтобы начать редактирование, необходимо иметь регистрацию на [GitHub](https://github.com/).
@@ -62,5 +62,12 @@ visible: true
 8. Нажимаем "Pull request".
 
 ## Если Вы закрыли страницу после Propose, но до Pull request
-Или нажимаем "branches". И далее кнопку "Pull request" напротив готовых изменений. Изменения появятся после одобрения модератором. Редактируем описание, если необходимо. Нажимаем "Pull request".
-Или нажимаем "branches". И далее кнопку "Pull request" напротив готовых изменений.
+1. Переходим в корень репозитория, нажимая сюда:
+
+![](Screenshot_24.jpg)
+
+2. Открываем список своих веток, нажимая на "branches":
+
+![](Screenshot_25.jpg)
+
+4. Далее нажимаем кнопку "Pull request" напротив готовых изменений. Редактируем описание, если необходимо. Нажимаем "Pull request". Изменения появятся после одобрения модератором.
