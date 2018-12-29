@@ -1,6 +1,6 @@
 ---
 title: 'Через GitHub'
-media_order: 'Screenshot_21.jpg,Screenshot_8.jpg,Screenshot_9.jpg,Screenshot_22.jpg,Screenshot_10.jpg,Screenshot_11.jpg,create_dir.gif,Screenshot_12.jpg,Screenshot_13.jpg,Screenshot_24.jpg,Screenshot_25.jpg'
+media_order: 'Screenshot_21.jpg,Screenshot_8.jpg,Screenshot_9.jpg,Screenshot_22.jpg,Screenshot_10.jpg,Screenshot_11.jpg,create_dir.gif,Screenshot_12.jpg,Screenshot_13.jpg,Screenshot_24.jpg,Screenshot_25.jpg,Screenshot_27.jpg,Screenshot_28.jpg,Screenshot_29.jpg,Screenshot_30.jpg,Screenshot_31.jpg,Screenshot_32.jpg,Screenshot_42.jpg,Screenshot_43.jpg,Screenshot_44.jpg'
 ---
 
 Данный вариант доступен всем желающим, но содержит премодерацию. Премодерация необходима в первую очередь для защиты от вандализма. Чтобы начать редактирование, необходимо иметь регистрацию на [GitHub](https://github.com/).
@@ -80,7 +80,25 @@ visible: true
 
 ![](Screenshot_30.jpg)
 
-6. GitHub сгруппирует все изменения и покажет отличия от основной версии. Чтобы продолжить, нажмите зелёную кнопку "Create pull request". Изменения появятся на портале, после того как модератор примет изменения.
+6. GitHub сгруппирует все изменения и покажет отличия от основной версии. Чтобы продолжить, нажмите зелёную кнопку "Create pull request". 
+
+![](Screenshot_31.jpg)
+
+7. Отредактируйте описание изменений для модератора и нажмите "Create pull request". Изменения появятся на портале, после того как модератор примет изменения.
+
+![](Screenshot_32.jpg)
+
+8. Принятые или отклонённые изменения появятся в уведомлениях. Можно перейти в изменения и прочитать комментарии.
+
+![](Screenshot_42.jpg)
+
+Принятые изменения:
+
+![](Screenshot_43.jpg)
+
+Отклонённые изменения:
+
+![](Screenshot_44.jpg)
 
 ## Если Вы закрыли страницу после Propose, но до Pull request
 1. Переходим в корень репозитория, нажимая сюда:
