@@ -7,7 +7,7 @@ media_order: 'Screenshot_3.jpg,Screenshot_4.jpg,Screenshot_8.jpg,Screenshot_9.jp
 
 # Редактирование страниц
 
-Добавять и редактировать страницы можно двумя способами:
+Добавять и редактировать страницы можно следующими способами:
 1. [Через админку сайта](via-account), используя учётную запись админки.
 2. [Через GitHub](via-github).
 3. [Через любой редактор, поддерживающий работу с github](cherez-redaktor-s-podderzhkoi-github).
