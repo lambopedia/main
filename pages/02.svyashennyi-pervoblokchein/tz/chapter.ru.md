@@ -1,5 +1,8 @@
 ---
 title: ТЗ
+taxonomy:
+    category:
+        - docs
 ---
 
 ### Священный ПервоБлокчейн
