@@ -371,7 +371,7 @@ Markdown позволяет очень лекго вставлять цитат�
 # Функциональные диаграммы
 Размещая [Nomnoml-диаграмму](https://github.com/OleVik/grav-plugin-nomnoml-uml-diagrams) на странице, заключайте её в теги `[nom]...[/nom]`:  
 
-```  
+``` nomnoml 
 [nom]
 [Pirate|eyeCount: Int|raid();pillage()|
   [beard]--[parrot]
