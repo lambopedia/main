@@ -369,7 +369,8 @@ Markdown позволяет очень лекго вставлять цитат�
 [ИдентификаторКартинки]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 # Функциональные диаграммы
-Размещая [Nomnoml-диаграмму](https://github.com/OleVik/grav-plugin-nomnoml-uml-diagrams) на странице, заключайте её в теги `[nom]...[/nom]`:
+Размещая [Nomnoml-диаграмму](https://github.com/OleVik/grav-plugin-nomnoml-uml-diagrams) на странице, заключайте её в теги `[nom]...[/nom]`:  
+
 ```  
 [nom]
 [Pirate|eyeCount: Int|raid();pillage()|
@@ -395,6 +396,8 @@ Markdown позволяет очень лекго вставлять цитат�
 [/nom]
 ```
 В результате получится вот такая диаграмма:  
+[nom][Grav]->[Awesome][/nom]  
+
 
 [nom]
 [Pirate|eyeCount: Int|raid();pillage()|
