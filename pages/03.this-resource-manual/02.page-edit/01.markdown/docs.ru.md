@@ -372,28 +372,14 @@ Markdown позволяет очень лекго вставлять цитат�
 Размещая [Nomnoml-диаграмму](https://github.com/OleVik/grav-plugin-nomnoml-uml-diagrams) на странице, заключайте её в теги `[nom]...[/nom]`:  
 
 ``` nomnoml 
-[nom]
-[Pirate|eyeCount: Int|raid();pillage()|
-  [beard]--[parrot]
-  [beard]-:>[foul mouth]
+[<frame>Decorator pattern|
+  [<abstract>Component||+ operation()]
+  [Client] depends --> [Component]
+  [Decorator|- next: Component]
+  [Decorator] decorates -- [ConcreteComponent]
+  [Component] <:- [Decorator]
+  [Component] <:- [ConcreteComponent]
 ]
-
-[<abstract>Marauder]<:--[Pirate]
-[Pirate]- 0..7[mischief]
-[jollyness]->[Pirate]
-[jollyness]->[rum]
-[jollyness]->[singing]
-[Pirate]-> *[rum|tastiness: Int|swig()]
-[Pirate]->[singing]
-[singing]<->[rum]
-
-[<start>st]->[<state>plunder]
-[plunder]->[<choice>more loot]
-[more loot]->[st]
-[more loot] no ->[<end>e]
-
-[<actor>Sailor] - [<usecase>shiver me;timbers]
-[/nom]
 ```
 В результате получится вот такая диаграмма:  
 [nom][Grav]->[Awesome][/nom]  
