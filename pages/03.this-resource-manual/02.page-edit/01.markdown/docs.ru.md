@@ -369,7 +369,7 @@ Markdown позволяет очень лекго вставлять цитат�
 [ИдентификаторКартинки]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 # Функциональные диаграммы
-Размещая Nomnoml-диаграмму на странице, заключайте её в теги `[nom]` и `[/nom]`:
+Размещая Nomnoml-диаграмму на странице, заключайте её в теги `[nom]...[/nom]`:
 ```  
 [nom]
 [Pirate|eyeCount: Int|raid();pillage()|
@@ -394,4 +394,27 @@ Markdown позволяет очень лекго вставлять цитат�
 [<actor>Sailor] - [<usecase>shiver me;timbers]
 [/nom]
 ```
+В результате получится вот такая диаграмма:  
 
+[nom]
+[Pirate|eyeCount: Int|raid();pillage()|
+  [beard]--[parrot]
+  [beard]-:>[foul mouth]
+]
+
+[<abstract>Marauder]<:--[Pirate]
+[Pirate]- 0..7[mischief]
+[jollyness]->[Pirate]
+[jollyness]->[rum]
+[jollyness]->[singing]
+[Pirate]-> *[rum|tastiness: Int|swig()]
+[Pirate]->[singing]
+[singing]<->[rum]
+
+[<start>st]->[<state>plunder]
+[plunder]->[<choice>more loot]
+[more loot]->[st]
+[more loot] no ->[<end>e]
+
+[<actor>Sailor] - [<usecase>shiver me;timbers]
+[/nom]
