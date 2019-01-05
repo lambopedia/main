@@ -369,15 +369,15 @@ Markdown позволяет очень лекго вставлять цитат�
 [ИдентификаторКартинки]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 # UML-диаграммы
-Размещая UML-диаграмму [Nomnoml](https://github.com/OleVik/grav-plugin-nomnoml-uml-diagrams) на странице, заключайте её в теги `&#91;nom]..&#91;/nom]`:  
+Размещая UML-диаграмму [Nomnoml](https://github.com/OleVik/grav-plugin-nomnoml-uml-diagrams) на странице, заключайте её в теги `[nоm]...[/nоm]`:  
 
 <pre>
-[nom][Grav]->[Awesome][/nom]
+[nоm][Grav]->[Awesome][/nоm]
 </pre>
 В результате получится вот такая диаграмма:  
 [nom][Grav]->[Awesome][/nom]  
 
-
+Более сложный пример:
 [nom]
 [Pirate|eyeCount: Int|raid();pillage()|
   [beard]--[parrot]
