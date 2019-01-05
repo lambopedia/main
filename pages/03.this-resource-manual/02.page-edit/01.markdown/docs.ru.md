@@ -371,18 +371,11 @@ Markdown позволяет очень лекго вставлять цитат�
 # Функциональные диаграммы
 Размещая [Nomnoml-диаграмму](https://github.com/OleVik/grav-plugin-nomnoml-uml-diagrams) на странице, заключайте её в теги `[nom]...[/nom]`:  
 
-``` nomnoml 
-[<frame>Decorator pattern|
-  [<abstract>Component||+ operation()]
-  [Client] depends --> [Component]
-  [Decorator|- next: Component]
-  [Decorator] decorates -- [ConcreteComponent]
-  [Component] <:- [Decorator]
-  [Component] <:- [ConcreteComponent]
-]
+``` 
+[nom][Grav]->[Awesome][/nom]
 ```
 В результате получится вот такая диаграмма:  
-<nom>[Grav]->[Awesome]</nom>  
+[nom][Grav]->[Awesome][/nom]  
 
 
 [nom]
