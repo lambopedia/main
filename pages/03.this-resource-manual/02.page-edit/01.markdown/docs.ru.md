@@ -369,7 +369,7 @@ Markdown позволяет очень лекго вставлять цитат�
 [ИдентификаторКартинки]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 # UML-диаграммы
-Размещая UML-диаграмму [Nomnoml](https://github.com/OleVik/grav-plugin-nomnoml-uml-diagrams) на странице, заключайте её в теги `[nom]` и `[/nom]`:  
+Размещая UML-диаграмму [Nomnoml](https://github.com/OleVik/grav-plugin-nomnoml-uml-diagrams) на странице, заключайте её в теги `&#91;nom]..&#91;/nom]`:  
 
 <pre>
 [nom][Grav]->[Awesome][/nom]
