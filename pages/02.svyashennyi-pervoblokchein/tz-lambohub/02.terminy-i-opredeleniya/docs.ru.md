@@ -1,6 +1,5 @@
 ---
 title: 'Термины и определения'
-media_order: web_types.jpg
 taxonomy:
     category:
         - docs
