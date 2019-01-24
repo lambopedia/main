@@ -1,5 +1,8 @@
 ---
 title: Оглавление
+taxonomy:
+    category:
+        - docs
 ---
 
 1. [Термины и определения](../terminy-i-opredeleniya)  
