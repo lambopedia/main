@@ -3,7 +3,7 @@ title: Оглавление
 ---
 
 1. [Термины и определения](../terminy-i-opredeleniya)  
-2. [Цели и общие положения](../svyashennyi-pervoblokchein/tz-lambohub/tseli-i-obshie-polozheniya)  
+2. [Цели и общие положения](../tseli-i-obshie-polozheniya)  
 3. [Функциональные требования](../funkcionalnye-trebovaniya)  
 4. [Нефункциональные требования](../nefunkcionalnye-trebovaniya)  
 7. Требования к приёмке-сдаче проекта  
