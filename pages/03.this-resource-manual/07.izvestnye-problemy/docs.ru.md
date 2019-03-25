@@ -10,8 +10,9 @@ media_order: 'ssl-alex_key.zip,ssl-et_eril.zip'
 ```
 le64.exe --key account.key --csr mydomain.csr --csr-key mydomain.key --crt lambopedia.crt --domains "www.lambopedia.ru,lambopedia.ru" --generate-missing --renew 7 --live
 ```  
-Для линукса:
+Для линукса:  
 ```
+le.pl --key account.key --csr mydomain.csr --csr-key mydomain.key --crt lambopedia.crt --domains "www.lambopedia.ru,lambopedia.ru" --generate-missing --renew 7 --live
 ```  
 
 Для каждого домена (в списке их два) программа предложит создать файл в папке сайта с именем и содержимым в виде набора символов. Например такое:  
