@@ -14,9 +14,7 @@ le64.exe --key account.key --csr mydomain.csr --csr-key mydomain.key --crt lambo
 ```
 le.pl --key account.key --csr mydomain.csr --csr-key mydomain.key --crt lambopedia.crt --domains "www.lambopedia.ru,lambopedia.ru" --generate-missing --renew 7 --live
 ```  
-
 Для каждого домена (в списке их два) программа предложит создать файл в папке сайта с именем и содержимым в виде набора символов. Например такое:  
-
 ```
 2019/03/25 22:30:06 Challenge for lambopedia.ru requires:
 A file 'tIeolzwZTfVlPmjT7ZPYq71T4z-TU_Ib-iz4RdvG91Q' in '/.well-known/acme-chall
@@ -24,7 +22,6 @@ enge/' with the text: tIeolzwZTfVlPmjT7ZPYq71T4z-TU_Ib-iz4RdvG91Q.6nRpaqop6Lrsbe
 PZ4Qpn8bDQ96gkSuCzJvD4ypuw3MQ
 When done, press <Enter>
 ```  
-
 Как только создали - нажимаем ENTER.  
 4. В результате получаем файл "lambopedia.crt"  
 5. Заходим в админку сайта, открываем сайт и на вкладке "Безопасность" указываем "lambopedia.crt" и "mydomain.key" соответственно.  
