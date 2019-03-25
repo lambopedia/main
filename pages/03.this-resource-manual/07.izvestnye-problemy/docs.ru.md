@@ -9,32 +9,32 @@ media_order: 'ssl-alex_key.zip,ssl-et_eril.zip'
 2. Для винды запускаем скрипт:
 ```
 le64.exe --key account.key --csr mydomain.csr --csr-key mydomain.key --crt lambopedia.crt --domains "www.lambopedia.ru,lambopedia.ru" --generate-missing --renew 7 --live
+```  
+Для линукса:
 ```
-Для каждого домена (в списке их два) программа предложит создать файл в папке сайта с именем и содержимым в виде набора символов. Например такое:
-```
-2019/03/25 22:28:00 Challenge for www.lambopedia.ru requires:
-A file 'rjsxsCbDgobLHmMF0Ge6mO-jd5kCHijNDClft_SvYnk' in '/.well-known/acme-chall
-enge/' with the text: rjsxsCbDgobLHmMF0Ge6mO-jd5kCHijNDClft_SvYnk.6nRpaqop6Lrsbe
-PZ4Qpn8bDQ96gkSuCzJvD4ypuw3MQ
-When done, press <Enter>
+```  
 
+Для каждого домена (в списке их два) программа предложит создать файл в папке сайта с именем и содержимым в виде набора символов. Например такое:  
+
+```
 2019/03/25 22:30:06 Challenge for lambopedia.ru requires:
 A file 'tIeolzwZTfVlPmjT7ZPYq71T4z-TU_Ib-iz4RdvG91Q' in '/.well-known/acme-chall
 enge/' with the text: tIeolzwZTfVlPmjT7ZPYq71T4z-TU_Ib-iz4RdvG91Q.6nRpaqop6Lrsbe
 PZ4Qpn8bDQ96gkSuCzJvD4ypuw3MQ
 When done, press <Enter>
-```
-Как только создали - нажимаем ENTER.
-4. В результате получаем файл "lambopedia.crt"
-5. Заходим в админку сайта, открываем сайт и на вкладке "Безопасность" указываем "lambopedia.crt" и "mydomain.key" соответственно.
+```  
+
+Как только создали - нажимаем ENTER.  
+4. В результате получаем файл "lambopedia.crt"  
+5. Заходим в админку сайта, открываем сайт и на вкладке "Безопасность" указываем "lambopedia.crt" и "mydomain.key" соответственно.  
 
 >>>> Некоторые страницы открываются по-старому, через незащищённое соединение. Почему? - непонятно, никто не разбирался ещё с этим.
  
 >>> Есть возможность настроить задание по расписанию, однако непонятно как на сервер установить ZeroSSL и куда копировать получившийся сертификат? Если ответить на эти вопросы, то смотрим [сюда](https://zerossl.com/usage.html#Certificate_renewal___automation).
 
 Исходные наборы файлов для всех манипуляций (зашифрованы паролями соотв. пользователя):
-[ssl-et_eril.zip](ssl-et_eril.zip)
-[ssl-alex_key.zip](ssl-alex_key.zip)
+* [ssl-et_eril.zip](ssl-et_eril.zip)
+* [ssl-alex_key.zip](ssl-alex_key.zip)
 
 ## Сохранение настроек
 При сохранении настроек слетает используемая тема - с доработанной (ExtLearn) на базовую (Learn). Почему? - непонятно, никто не разбирался ещё с этим. Поэтому после внесения каких-либо изменений, убедитесь что активна доработанная тема ExtLearn, именно с помощью неё реализован поиск и доработки внешнего оформления.
